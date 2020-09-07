@@ -1,3 +1,10 @@
+
+# android_jetpack_sunflower
+google 官方使用jetpack的技术实现的 软件,该仓库主要的功能是 代码注释以及实现基本功能的添加等
+
+
+
+
 Android Sunflower
 =================
 
@@ -184,3 +191,4 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+
